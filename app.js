@@ -22,7 +22,7 @@ const generatePage = (userName, githubName) => { `Name: ${userName}, Github: ${g
 
 generatePage();
 
-console.log(generatePage());
+console.log(generatePage('Jane', 'janehub'));
 
 
 
